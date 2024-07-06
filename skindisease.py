@@ -11,7 +11,7 @@ import os
 app = Flask(__name__)
 
 load_dotenv()
-os.environ['GOOGLE_API_KEY']="AIzaSyAmDwU33NavP3x9kEZ0R7CFbj0lH9Vg3hM"
+os.environ['GOOGLE_API_KEY']="your api key"
 genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
 
 def get_gemini_response(input):
