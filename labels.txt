@@ -1,0 +1,10 @@
+0 Eczema 
+1 Melanoma
+2 Atopic Dermatitis
+3 Basal Cell Carcinoma (BCC) 
+4 Melonocytic
+5 Benign Keratosis-like Lesions (BKL) 
+6 Psoriasis Lichen Planus and diseases 
+7 Seborrheic Keratoses and Benign Tumors
+8 Tinea Ringworm Candidiasis and  Fungal Infections 
+9 Warts Molluscum and  Viral Infections
