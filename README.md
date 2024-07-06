@@ -14,7 +14,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/your-username/health-ai-assistant.git
+git clone (https://github.com/kathojumanoj/Health_AI_Assistant)
 cd health-ai-assistant
 Install dependencies:
 
